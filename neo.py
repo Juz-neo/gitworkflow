@@ -1,3 +1,2 @@
-name = 'more' 
-print(name)
-
+def addFunction(x,y):
+    return x+y
